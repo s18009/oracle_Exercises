@@ -1,1 +1,1 @@
-select last_name, first_name from employees;
+select last_name"姓", first_name"名" from employees;

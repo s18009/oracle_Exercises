@@ -1,2 +1,2 @@
 
-select last_name || ' earns ' || salary as "Monthly Salary" from employees;
+select last_name || ' earns ' || salary as "last_name earn salary" from employees;
